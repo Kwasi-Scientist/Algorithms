@@ -1,0 +1,1 @@
+The following repository contains my assignments and projects for a graduate level Algorithms course taken at Stevens Institute of Technology.
